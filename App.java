@@ -4,7 +4,7 @@ public class App {
         // Lector lector = new Lector();
         // Graph graph = lector.leerGrafo("macaco.txt");
         LectorGrafo lector = new LectorGrafo();
-        Graph graph = lector.leerGrafo("macaco.txt");
+        Graph graph = lector.leerGrafo("seventh.txt");
         // System.out.println("He leido el grafo");
         // FordFulkerson fordFulkerson = new FordFulkerson(graph, 1, 5);
         // System.out.println("He creado el objeto FordFulkerson");
